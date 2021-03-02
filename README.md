@@ -1,1 +1,1 @@
-# NicolasLopez-EEC
+Éste es el repositorio de Nicolás López Bermeo
